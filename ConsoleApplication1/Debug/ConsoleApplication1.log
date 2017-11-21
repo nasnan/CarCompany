@@ -1,0 +1,6 @@
+﻿  test1.cpp
+c:\users\nasna\documents\visual studio 2015\projects\c++\carcompany\consoleapplication1\consoleapplication1\test1.cpp(326): warning C4101: 'temp': unreferenced local variable
+c:\users\nasna\documents\visual studio 2015\projects\c++\carcompany\consoleapplication1\consoleapplication1\test1.cpp(358): warning C4101: 'temp': unreferenced local variable
+c:\users\nasna\documents\visual studio 2015\projects\c++\carcompany\consoleapplication1\consoleapplication1\test1.cpp(417): warning C4101: 'next': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\Users\nasna\Documents\Visual Studio 2015\Projects\C++\CarCompany\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\nasna\Documents\Visual Studio 2015\Projects\C++\CarCompany\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
